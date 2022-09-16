@@ -1,5 +1,7 @@
-# Function argument unpacking
-		
+'''
+Author: Py Tricks email subscription
+Title: Function argument for unpacking
+'''
 
 def myfunc(x, y, z):
  print(x, y, z)
